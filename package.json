@@ -1,0 +1,24 @@
+{
+  "name": "doge-bot",
+  "version": "1.0.0",
+  "description": "A Multi Purpose Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "\"\""
+  },
+  "keywords": [
+    "\"\""
+  ],
+  "author": "Omenous",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "fs": "^0.0.1-security",
+    "nodemon": "^2.0.7",
+    "random-puppy": "^1.1.0"
+  }
+}
