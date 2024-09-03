@@ -6,4 +6,7 @@ INSTRUCTIONS TO ACTIVATE BOT:
 
 Visit discord.com/developers/applications and create bot <br />
 Insert token in the empty space corresponding to Token in config.json<br />
+Install Node js
+run npm init -y in terminal
+run npm install discord.js in terminal
 Run index.js to make bot online
