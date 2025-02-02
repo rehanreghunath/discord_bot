@@ -1,3 +1,5 @@
+⚠️NOT FUNCTIONING ANYMORE⚠️
+
 Discord Bot consisting of basic admin functions such as ban, kick, grant role, for a discord server.<br />
 Built using Javascript library discord.js (used to interact with Discord API)<br />
 This script can be used for any discord bot granted you have access to the bot token.
